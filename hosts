@@ -1,4 +1,2 @@
-127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
-::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 10.202.1.49 zammad.lolubyte.internal zammad
 10.202.1.44 lbitc.lolubyte.internal loghost
