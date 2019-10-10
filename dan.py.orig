@@ -1,0 +1,9 @@
+import greet
+greet.greeting("Aboyewa")
+<<<<<<< HEAD
+#Updated on 10/09/2019
+#Updated on 10/09/2019
+#Updated on 10/09/2019
+=======
+#Update   today
+>>>>>>> feature6
